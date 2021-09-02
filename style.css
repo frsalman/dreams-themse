@@ -1,0 +1,542 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* first section */
+.firstSection{
+    background-color: #0C2B4B;
+    height: 90px;
+}
+
+.logoSection{
+    text-align: right;
+    clip-path:polygon(0% 0%, 100% 0%, 96% 100%, 0% 100%);
+    height: 90px;
+    width: 580px;
+}
+
+.logoImg{
+    
+
+}
+.menuSection {
+    padding: 23px 0px;
+
+}
+.menuSection ul{
+    
+
+}
+.menuSection ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+
+}
+
+.menuSection ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: ;
+    padding: 10px 0px;
+}
+.menuSection ul li :hover{
+    border-bottom: 2px solid yellow;
+
+}
+.iconMenuSection{
+
+}
+.iconMenu{
+    padding: 25px 0px;
+
+}
+.iconMenu ul{
+    margin-left:-60px
+
+}
+.iconMenu ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+
+
+.iconMenu ul li a{
+    text-decoration: none;
+    color: #ffff;
+    padding: 10px 15px;
+
+}
+
+
+
+.iconMenu .buttonfirst{
+    color: white;
+    border-radius:0%;
+    font-size: 16px;
+    font-weight: 700;
+    width: 167px;
+    text-transform: uppercase;
+}
+
+
+/* second section */
+.secondSection{
+    background-image:url(hero-bg.jpg);
+    height: 850px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+.secondSection h3{
+    text-align:center;
+    color: #fff;
+    padding-top:336px;
+    font-size: 18px;
+    letter-spacing:2px ;
+    font-weight: 700;
+   
+    text-transform: uppercase;
+}
+.secondSection h2{
+    text-align: center;
+    color: #fff;
+    font-size: 42px;
+    padding-top:17px;
+    font-weight: 700;
+    
+    text-transform: uppercase;
+    font-style: italic;
+}
+.secondSection .buttonRow{
+    padding-top: 17px;
+}
+.secondSection .buttonone{
+    text-align: right;
+    
+}
+
+.buttonRow .buttonsecTWo{
+    color: #fff;
+    width: 161px;
+    border-radius: 0%;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 49px;
+    padding-top:12px ;
+}
+
+.buttonRow .buttonsectwo{
+    background-color:#0C2B4B;
+    width: 161px;
+    border-radius: 0%;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 49px;
+    padding-top:12px ;
+
+}
+/* star section three */
+.sectionThree{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.sectionThree .textsecTH{
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+.whyUs{
+    font-size: 14px;
+    color: #f3bd00;
+    letter-spacing: 2px;
+    margin-bottom: 6px;
+}
+.ourFR{
+    font-size: 36px;
+    color: #111;
+    margin-bottom: 20px;
+    font-weight: 800;
+    font-style: italic;
+}
+.sectionThree .ContentText{
+    font-size: 15px;
+    margin-bottom: 26px;
+    line-height: 26px;
+    width: 365px;
+}
+ .contentButton{
+    background-color: #0C2B4B;
+    border-radius: 0%;
+    border: none;
+    width: 161px;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 49px;
+    padding-top:14px ;
+
+}
+.sectionThree .boxSection{
+    padding-left: 40px;
+}
+
+.boxone{
+    width: 360px;
+    height: 191px;
+    background-color: #0C2B4B;
+    color: #fff;
+    margin-bottom: 30px;
+   
+}
+.boxtwo{
+    width: 360px;
+    height: 193px;
+    background-color: #0C2B4B;
+    color: #fff;
+    
+}
+.boxthree{
+    width: 360px;
+    height: 191px;
+    background-color: #0C2B4B;
+    color: #fff;
+    margin-top: 120px;
+    margin-left:0px;
+}
+ .feaimgone{
+   padding-left: 140px;
+   padding-top: 40px;
+   padding-bottom: 30px;
+}
+.sectionThree h5{
+    text-align: center;
+}
+/* end sction three */
+
+/* sectionfour start*/
+
+.sectionfour{
+    padding-bottom: 108px;
+}
+.videos{
+    position: relative;
+    z-index: 1;
+    background-color: #fff;
+}
+.videoIMg{
+    margin-left: -12px;
+   
+    position: relative;
+}
+
+.videoContent{
+    padding-top: 75px;
+}
+.videoText{
+    width: 468px;
+    line-height: 26px;
+    padding-bottom: 20px;
+}
+/* ===============end section four=================== */
+/* ==============section five  start==============*/
+
+.sectionFive{
+    background-color: #f5f5f5;
+    padding-top: 250px;
+    margin-top: -300px;
+    clip-path: polygon(50% 0, 100% 21%, 100% 100%, 50% 100%, 0 100%, 0% 21%);
+    z-index: -1;
+    position: absolute;
+    display: block;
+    
+}
+.formText h4{
+    font-size: 14px;
+    color: #f3bd00;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.formText h2{
+    font-size: 36px;
+    color: #111;
+    margin-bottom: 20px;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.form{
+    padding-bottom: 50px;
+}
+.form input{
+    width: 360px;
+    height: 50px;
+    background-color: #fff;
+    box-shadow: none;
+    padding-left: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    border: 1px solid #f5f5f5;
+}
+.Coursetype{
+    width: 360px;
+    height: 50px;
+    background-color: #fff;
+    box-shadow: none;
+    padding-left: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    border: 1px solid #f5f5f5;
+}
+.submitButton{
+    background-color: #0C2B4B;
+    border-radius: 0%;
+    border: none;
+    width: 161px;
+    color: #fff;
+    margin-left: 496px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 49px;
+    padding-top:14px ;
+    text-align: center;
+}
+/* ===================================end five section================================== */
+/*=================================== start six section============================ */
+
+.sixSection{
+   
+    margin-top: 356px;
+    background-image: url(pricing-bg.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 862px;
+}
+
+
+.sixSection h4{
+    font-size: 14px;
+    color: #f3bd00;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.sixSection h2{
+    font-size: 36px;
+    color: white;
+    margin-bottom: 20px;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.pricesec{
+    padding-left: 60px;
+    padding-top: 25px;
+}
+.pricebox{
+    height: 537px;
+    width: 360px;
+    background-color:rgba(12, 43, 75, 0.3);
+    margin-left: 30px;
+    transition: 0.5s;
+}
+
+.pricebox h5{
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+}
+.pricebox h1{
+    text-align: center;
+    color: #f3bd00;
+    font-size: 50px;
+    font-weight: 650;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.pricebox h3{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    border-bottom: 0.5px solid rgba(225, 225, 225, 0.2);
+    padding-bottom: 45px;
+    width: 320px;
+    margin-bottom: 35px;
+}
+
+
+.pricebox li{
+    text-align: center;
+    color: #fff;
+    list-style-type: none;
+   line-height: 36px;
+    font-size: 14px;
+    
+    font-weight: 450;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pricebox  a{
+   margin-left: 25px;
+    color: #fff;
+    margin-top: 30px;
+    width: 290px;
+    height: 49px;
+    font-weight: 700;
+    color: white;
+    background-color: #0C2B4B;
+    text-transform: uppercase;
+    padding-top: 10px;
+    border-radius: 0%;
+}
+
+.pricebox:hover{
+    background-color: #0C2B4B;
+}
+.pricebox:hover a{
+    background: #f3bd00;
+    color: #fff;
+}
+/*======================== end six section===================================== */
+
+/*========================= start seven section============================== */
+.sevensection{
+   margin-top: 88px;
+    background-color:#fff;
+    height: 809px;
+    padding-bottom: 70px;
+}
+.sevensecrw{
+    padding-left: 50px;
+}
+.sevensection h4{
+    margin-left: -330px;
+}
+.sevensection h2{
+    color: #111;
+    margin-left: -145px;
+
+}
+.sevensection .sevenbutton{
+    margin-top:130px;
+    background-color: #0C2B4B;
+    border-radius: 0%;
+    border: none;
+    width: 161px;
+    color: #fff;
+    margin-left: 380px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 49px;
+    padding-top:14px ;
+}
+.teamsection{
+    width: 555px;
+    height: 232px;
+    margin-left: 30px;
+    margin-top:20px ;
+}
+.teampic{
+    padding-left: 30px;
+    padding-top: 35px;
+}
+.teamsection h3{
+    margin-top: 35px;
+}
+.teamsection h4{
+    margin-left: -169px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.teamsection ul{
+   margin-top: -30px;
+}
+.teamsection ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 20px;
+    
+   
+}
+
+.teamsection ul li a{
+    margin-left: -55px;
+    margin-top: -10px;
+    color: black;
+   
+}
+/* ======================end seven section============================================ */
+/*==============================start footer section================ */
+.footer{
+    height: 440px;
+   
+    background-color:#0C2B4B;
+    margin-left: -12px;
+    
+}
+.footerfirt{
+    margin-left: 45px;
+    padding-top: 100px;
+}
+.footerhdtx{
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.footersecondtx{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.footersecondtx li{
+    list-style: none;
+    padding-top: 10px;
+   
+}
+.footersecondtx li a{
+    color:#c4c4c4;
+    text-decoration: none;
+    padding-left: 26px;
+    
+
+}
+.foterlist{
+    margin-left: -7px;
+}
+
+span .copyright{
+    color: #c4c4c4;;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    font-style:normal;
+    padding-top: 40px;
+    margin-left: 0;
+    border-top: solid 1px rgba(255, 255, 255, 0.1);
+}
